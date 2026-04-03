@@ -1,0 +1,98 @@
+[
+  {
+    "id": 1,
+    "name": "Shannon Estuary",
+    "country": "Ireland",
+    "river_name": "River Shannon",
+    "lat": 52.6194,
+    "lon": -8.9743,
+    "salinity_delta": 33.8,
+    "flow_rate_m3s": 186.0,
+    "grid_distance_km": 3.2,
+    "land_access_score": 85
+  },
+  {
+    "id": 2,
+    "name": "Rhine Delta",
+    "country": "Netherlands",
+    "river_name": "Rhine",
+    "lat": 51.8744,
+    "lon": 3.8418,
+    "salinity_delta": 30.1,
+    "flow_rate_m3s": 2200.0,
+    "grid_distance_km": 1.8,
+    "land_access_score": 90
+  },
+  {
+    "id": 3,
+    "name": "Danube Delta",
+    "country": "Romania",
+    "river_name": "Danube",
+    "lat": 45.2095,
+    "lon": 29.7419,
+    "salinity_delta": 16.5,
+    "flow_rate_m3s": 6500.0,
+    "grid_distance_km": 22.4,
+    "land_access_score": 45
+  },
+  {
+    "id": 4,
+    "name": "Tagus Estuary",
+    "country": "Portugal",
+    "river_name": "Tagus",
+    "lat": 38.6937,
+    "lon": -9.0231,
+    "salinity_delta": 34.2,
+    "flow_rate_m3s": 350.0,
+    "grid_distance_km": 4.1,
+    "land_access_score": 78
+  },
+  {
+    "id": 5,
+    "name": "Elbe Estuary",
+    "country": "Germany",
+    "river_name": "Elbe",
+    "lat": 53.8858,
+    "lon": 8.8717,
+    "salinity_delta": 28.7,
+    "flow_rate_m3s": 870.0,
+    "grid_distance_km": 5.6,
+    "land_access_score": 82
+  },
+  {
+    "id": 6,
+    "name": "Po Delta",
+    "country": "Italy",
+    "river_name": "Po",
+    "lat": 44.9399,
+    "lon": 12.5683,
+    "salinity_delta": 29.5,
+    "flow_rate_m3s": 1500.0,
+    "grid_distance_km": 8.3,
+    "land_access_score": 70
+  },
+  {
+    "id": 7,
+    "name": "Ebro Delta",
+    "country": "Spain",
+    "river_name": "Ebro",
+    "lat": 40.7213,
+    "lon": 0.8724,
+    "salinity_delta": 35.5,
+    "flow_rate_m3s": 420.0,
+    "grid_distance_km": 12.7,
+    "land_access_score": 60
+  },
+  {
+    "id": 8,
+    "name": "Thames Estuary",
+    "country": "United Kingdom",
+    "river_name": "Thames",
+    "lat": 51.4429,
+    "lon": 0.5282,
+    "salinity_delta": 31.2,
+    "flow_rate_m3s": 65.0,
+    "grid_distance_km": 2.1,
+    "land_access_score": 88
+  }
+]

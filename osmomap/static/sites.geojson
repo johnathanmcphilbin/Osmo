@@ -1,0 +1,669 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.9743,
+          52.6194
+        ]
+      },
+      "properties": {
+        "id": 1,
+        "name": "Shannon Estuary",
+        "country": "Ireland",
+        "river_name": "River Shannon",
+        "score": 81.81,
+        "salinity_delta": 33.8,
+        "flow_rate_m3s": 186.0,
+        "grid_distance_km": 3.2,
+        "land_access_score": 85,
+        "score_tier": "high",
+        "breakdown": {
+          "salinity_component": 37.56,
+          "flow_component": 17.04,
+          "grid_proximity_component": 18.72,
+          "land_access_component": 8.5,
+          "salinity_delta_norm": 93.89,
+          "flow_norm": 56.8,
+          "grid_norm": 93.6,
+          "land_norm": 85.0
+        },
+        "seasonal_flow": [
+          {
+            "month": "Jan",
+            "flow_rate_m3s": 148.8
+          },
+          {
+            "month": "Feb",
+            "flow_rate_m3s": 158.1
+          },
+          {
+            "month": "Mar",
+            "flow_rate_m3s": 186.0
+          },
+          {
+            "month": "Apr",
+            "flow_rate_m3s": 204.6
+          },
+          {
+            "month": "May",
+            "flow_rate_m3s": 195.3
+          },
+          {
+            "month": "Jun",
+            "flow_rate_m3s": 167.4
+          },
+          {
+            "month": "Jul",
+            "flow_rate_m3s": 139.5
+          },
+          {
+            "month": "Aug",
+            "flow_rate_m3s": 130.2
+          },
+          {
+            "month": "Sep",
+            "flow_rate_m3s": 148.8
+          },
+          {
+            "month": "Oct",
+            "flow_rate_m3s": 176.7
+          },
+          {
+            "month": "Nov",
+            "flow_rate_m3s": 195.3
+          },
+          {
+            "month": "Dec",
+            "flow_rate_m3s": 167.4
+          }
+        ],
+        "last_updated": "2026-04"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.8418,
+          51.8744
+        ]
+      },
+      "properties": {
+        "id": 2,
+        "name": "Rhine Delta",
+        "country": "Netherlands",
+        "river_name": "Rhine",
+        "score": 86.79,
+        "salinity_delta": 30.1,
+        "flow_rate_m3s": 2200.0,
+        "grid_distance_km": 1.8,
+        "land_access_score": 90,
+        "score_tier": "high",
+        "breakdown": {
+          "salinity_component": 33.44,
+          "flow_component": 25.07,
+          "grid_proximity_component": 19.28,
+          "land_access_component": 9.0,
+          "salinity_delta_norm": 83.61,
+          "flow_norm": 83.56,
+          "grid_norm": 96.4,
+          "land_norm": 90.0
+        },
+        "seasonal_flow": [
+          {
+            "month": "Jan",
+            "flow_rate_m3s": 1760.0
+          },
+          {
+            "month": "Feb",
+            "flow_rate_m3s": 1870.0
+          },
+          {
+            "month": "Mar",
+            "flow_rate_m3s": 2200.0
+          },
+          {
+            "month": "Apr",
+            "flow_rate_m3s": 2420.0
+          },
+          {
+            "month": "May",
+            "flow_rate_m3s": 2310.0
+          },
+          {
+            "month": "Jun",
+            "flow_rate_m3s": 1980.0
+          },
+          {
+            "month": "Jul",
+            "flow_rate_m3s": 1650.0
+          },
+          {
+            "month": "Aug",
+            "flow_rate_m3s": 1540.0
+          },
+          {
+            "month": "Sep",
+            "flow_rate_m3s": 1760.0
+          },
+          {
+            "month": "Oct",
+            "flow_rate_m3s": 2090.0
+          },
+          {
+            "month": "Nov",
+            "flow_rate_m3s": 2310.0
+          },
+          {
+            "month": "Dec",
+            "flow_rate_m3s": 1980.0
+          }
+        ],
+        "last_updated": "2026-04"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.7419,
+          45.2095
+        ]
+      },
+      "properties": {
+        "id": 3,
+        "name": "Danube Delta",
+        "country": "Romania",
+        "river_name": "Danube",
+        "score": 62.47,
+        "salinity_delta": 16.5,
+        "flow_rate_m3s": 6500.0,
+        "grid_distance_km": 22.4,
+        "land_access_score": 45,
+        "score_tier": "medium",
+        "breakdown": {
+          "salinity_component": 18.33,
+          "flow_component": 28.6,
+          "grid_proximity_component": 11.04,
+          "land_access_component": 4.5,
+          "salinity_delta_norm": 45.83,
+          "flow_norm": 95.32,
+          "grid_norm": 55.2,
+          "land_norm": 45.0
+        },
+        "seasonal_flow": [
+          {
+            "month": "Jan",
+            "flow_rate_m3s": 5200.0
+          },
+          {
+            "month": "Feb",
+            "flow_rate_m3s": 5525.0
+          },
+          {
+            "month": "Mar",
+            "flow_rate_m3s": 6500.0
+          },
+          {
+            "month": "Apr",
+            "flow_rate_m3s": 7150.0
+          },
+          {
+            "month": "May",
+            "flow_rate_m3s": 6825.0
+          },
+          {
+            "month": "Jun",
+            "flow_rate_m3s": 5850.0
+          },
+          {
+            "month": "Jul",
+            "flow_rate_m3s": 4875.0
+          },
+          {
+            "month": "Aug",
+            "flow_rate_m3s": 4550.0
+          },
+          {
+            "month": "Sep",
+            "flow_rate_m3s": 5200.0
+          },
+          {
+            "month": "Oct",
+            "flow_rate_m3s": 6175.0
+          },
+          {
+            "month": "Nov",
+            "flow_rate_m3s": 6825.0
+          },
+          {
+            "month": "Dec",
+            "flow_rate_m3s": 5850.0
+          }
+        ],
+        "last_updated": "2026-04"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.0231,
+          38.6937
+        ]
+      },
+      "properties": {
+        "id": 4,
+        "name": "Tagus Estuary",
+        "country": "Portugal",
+        "river_name": "Tagus",
+        "score": 83.25,
+        "salinity_delta": 34.2,
+        "flow_rate_m3s": 350.0,
+        "grid_distance_km": 4.1,
+        "land_access_score": 78,
+        "score_tier": "high",
+        "breakdown": {
+          "salinity_component": 38.0,
+          "flow_component": 19.09,
+          "grid_proximity_component": 18.36,
+          "land_access_component": 7.8,
+          "salinity_delta_norm": 95.0,
+          "flow_norm": 63.63,
+          "grid_norm": 91.8,
+          "land_norm": 78.0
+        },
+        "seasonal_flow": [
+          {
+            "month": "Jan",
+            "flow_rate_m3s": 280.0
+          },
+          {
+            "month": "Feb",
+            "flow_rate_m3s": 297.5
+          },
+          {
+            "month": "Mar",
+            "flow_rate_m3s": 350.0
+          },
+          {
+            "month": "Apr",
+            "flow_rate_m3s": 385.0
+          },
+          {
+            "month": "May",
+            "flow_rate_m3s": 367.5
+          },
+          {
+            "month": "Jun",
+            "flow_rate_m3s": 315.0
+          },
+          {
+            "month": "Jul",
+            "flow_rate_m3s": 262.5
+          },
+          {
+            "month": "Aug",
+            "flow_rate_m3s": 245.0
+          },
+          {
+            "month": "Sep",
+            "flow_rate_m3s": 280.0
+          },
+          {
+            "month": "Oct",
+            "flow_rate_m3s": 332.5
+          },
+          {
+            "month": "Nov",
+            "flow_rate_m3s": 367.5
+          },
+          {
+            "month": "Dec",
+            "flow_rate_m3s": 315.0
+          }
+        ],
+        "last_updated": "2026-04"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.8717,
+          53.8858
+        ]
+      },
+      "properties": {
+        "id": 5,
+        "name": "Elbe Estuary",
+        "country": "Germany",
+        "river_name": "Elbe",
+        "score": 79.9,
+        "salinity_delta": 28.7,
+        "flow_rate_m3s": 870.0,
+        "grid_distance_km": 5.6,
+        "land_access_score": 82,
+        "score_tier": "high",
+        "breakdown": {
+          "salinity_component": 31.89,
+          "flow_component": 22.05,
+          "grid_proximity_component": 17.76,
+          "land_access_component": 8.2,
+          "salinity_delta_norm": 79.72,
+          "flow_norm": 73.5,
+          "grid_norm": 88.8,
+          "land_norm": 82.0
+        },
+        "seasonal_flow": [
+          {
+            "month": "Jan",
+            "flow_rate_m3s": 696.0
+          },
+          {
+            "month": "Feb",
+            "flow_rate_m3s": 739.5
+          },
+          {
+            "month": "Mar",
+            "flow_rate_m3s": 870.0
+          },
+          {
+            "month": "Apr",
+            "flow_rate_m3s": 957.0
+          },
+          {
+            "month": "May",
+            "flow_rate_m3s": 913.5
+          },
+          {
+            "month": "Jun",
+            "flow_rate_m3s": 783.0
+          },
+          {
+            "month": "Jul",
+            "flow_rate_m3s": 652.5
+          },
+          {
+            "month": "Aug",
+            "flow_rate_m3s": 609.0
+          },
+          {
+            "month": "Sep",
+            "flow_rate_m3s": 696.0
+          },
+          {
+            "month": "Oct",
+            "flow_rate_m3s": 826.5
+          },
+          {
+            "month": "Nov",
+            "flow_rate_m3s": 913.5
+          },
+          {
+            "month": "Dec",
+            "flow_rate_m3s": 783.0
+          }
+        ],
+        "last_updated": "2026-04"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5683,
+          44.9399
+        ]
+      },
+      "properties": {
+        "id": 6,
+        "name": "Po Delta",
+        "country": "Italy",
+        "river_name": "Po",
+        "score": 80.28,
+        "salinity_delta": 29.5,
+        "flow_rate_m3s": 1500.0,
+        "grid_distance_km": 8.3,
+        "land_access_score": 70,
+        "score_tier": "high",
+        "breakdown": {
+          "salinity_component": 32.78,
+          "flow_component": 23.82,
+          "grid_proximity_component": 16.68,
+          "land_access_component": 7.0,
+          "salinity_delta_norm": 81.94,
+          "flow_norm": 79.41,
+          "grid_norm": 83.4,
+          "land_norm": 70.0
+        },
+        "seasonal_flow": [
+          {
+            "month": "Jan",
+            "flow_rate_m3s": 1200.0
+          },
+          {
+            "month": "Feb",
+            "flow_rate_m3s": 1275.0
+          },
+          {
+            "month": "Mar",
+            "flow_rate_m3s": 1500.0
+          },
+          {
+            "month": "Apr",
+            "flow_rate_m3s": 1650.0
+          },
+          {
+            "month": "May",
+            "flow_rate_m3s": 1575.0
+          },
+          {
+            "month": "Jun",
+            "flow_rate_m3s": 1350.0
+          },
+          {
+            "month": "Jul",
+            "flow_rate_m3s": 1125.0
+          },
+          {
+            "month": "Aug",
+            "flow_rate_m3s": 1050.0
+          },
+          {
+            "month": "Sep",
+            "flow_rate_m3s": 1200.0
+          },
+          {
+            "month": "Oct",
+            "flow_rate_m3s": 1425.0
+          },
+          {
+            "month": "Nov",
+            "flow_rate_m3s": 1575.0
+          },
+          {
+            "month": "Dec",
+            "flow_rate_m3s": 1350.0
+          }
+        ],
+        "last_updated": "2026-04"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.8724,
+          40.7213
+        ]
+      },
+      "properties": {
+        "id": 7,
+        "name": "Ebro Delta",
+        "country": "Spain",
+        "river_name": "Ebro",
+        "score": 80.05,
+        "salinity_delta": 35.5,
+        "flow_rate_m3s": 420.0,
+        "grid_distance_km": 12.7,
+        "land_access_score": 60,
+        "score_tier": "high",
+        "breakdown": {
+          "salinity_component": 39.44,
+          "flow_component": 19.68,
+          "grid_proximity_component": 14.92,
+          "land_access_component": 6.0,
+          "salinity_delta_norm": 98.61,
+          "flow_norm": 65.61,
+          "grid_norm": 74.6,
+          "land_norm": 60.0
+        },
+        "seasonal_flow": [
+          {
+            "month": "Jan",
+            "flow_rate_m3s": 336.0
+          },
+          {
+            "month": "Feb",
+            "flow_rate_m3s": 357.0
+          },
+          {
+            "month": "Mar",
+            "flow_rate_m3s": 420.0
+          },
+          {
+            "month": "Apr",
+            "flow_rate_m3s": 462.0
+          },
+          {
+            "month": "May",
+            "flow_rate_m3s": 441.0
+          },
+          {
+            "month": "Jun",
+            "flow_rate_m3s": 378.0
+          },
+          {
+            "month": "Jul",
+            "flow_rate_m3s": 315.0
+          },
+          {
+            "month": "Aug",
+            "flow_rate_m3s": 294.0
+          },
+          {
+            "month": "Sep",
+            "flow_rate_m3s": 336.0
+          },
+          {
+            "month": "Oct",
+            "flow_rate_m3s": 399.0
+          },
+          {
+            "month": "Nov",
+            "flow_rate_m3s": 441.0
+          },
+          {
+            "month": "Dec",
+            "flow_rate_m3s": 378.0
+          }
+        ],
+        "last_updated": "2026-04"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.5282,
+          51.4429
+        ]
+      },
+      "properties": {
+        "id": 8,
+        "name": "Thames Estuary",
+        "country": "United Kingdom",
+        "river_name": "Thames",
+        "score": 76.27,
+        "salinity_delta": 31.2,
+        "flow_rate_m3s": 65.0,
+        "grid_distance_km": 2.1,
+        "land_access_score": 88,
+        "score_tier": "high",
+        "breakdown": {
+          "salinity_component": 34.67,
+          "flow_component": 13.65,
+          "grid_proximity_component": 19.16,
+          "land_access_component": 8.8,
+          "salinity_delta_norm": 86.67,
+          "flow_norm": 45.49,
+          "grid_norm": 95.8,
+          "land_norm": 88.0
+        },
+        "seasonal_flow": [
+          {
+            "month": "Jan",
+            "flow_rate_m3s": 52.0
+          },
+          {
+            "month": "Feb",
+            "flow_rate_m3s": 55.2
+          },
+          {
+            "month": "Mar",
+            "flow_rate_m3s": 65.0
+          },
+          {
+            "month": "Apr",
+            "flow_rate_m3s": 71.5
+          },
+          {
+            "month": "May",
+            "flow_rate_m3s": 68.2
+          },
+          {
+            "month": "Jun",
+            "flow_rate_m3s": 58.5
+          },
+          {
+            "month": "Jul",
+            "flow_rate_m3s": 48.8
+          },
+          {
+            "month": "Aug",
+            "flow_rate_m3s": 45.5
+          },
+          {
+            "month": "Sep",
+            "flow_rate_m3s": 52.0
+          },
+          {
+            "month": "Oct",
+            "flow_rate_m3s": 61.8
+          },
+          {
+            "month": "Nov",
+            "flow_rate_m3s": 68.2
+          },
+          {
+            "month": "Dec",
+            "flow_rate_m3s": 58.5
+          }
+        ],
+        "last_updated": "2026-04"
+      }
+    }
+  ]
+}
