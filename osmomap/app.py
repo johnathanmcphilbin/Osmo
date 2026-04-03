@@ -17,6 +17,8 @@ app = Flask(__name__)
 
 GEOJSON_FILE = Path(__file__).parent / "static" / "sites.geojson"
 
+models.init_db()
+
 
 def _ensure_geojson():
     if not GEOJSON_FILE.exists():
